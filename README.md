@@ -52,7 +52,7 @@ Computer Engineering Student | Software Developer | AI & Machine Learning Enthus
 
 ### 📊 Data Science & ML Tools
 
-<img src="https://skillicons.dev/icons?i=jupyter,opencv" />
+<img src="https://skillicons.dev/icons?i=opencv,jupyter" />
 
 ---
 
