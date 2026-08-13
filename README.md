@@ -48,6 +48,8 @@ Computer Engineering Student | Software Developer | AI & Machine Learning Enthus
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
+---
+
 ## 📊 Data Science & ML Tools
 
 <p align="left">
