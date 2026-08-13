@@ -50,9 +50,19 @@ Computer Engineering Student | Software Developer | AI & Machine Learning Enthus
 
 ---
 
-### 📊 Data Science & ML Tools
+## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=opencv,jupyter" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+## 📊 Data Science & ML Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="80"/>
+</p>
 
 ---
 
