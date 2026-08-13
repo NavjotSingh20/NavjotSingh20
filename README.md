@@ -44,12 +44,6 @@ Computer Engineering Student | Software Developer | AI & Machine Learning Enthus
 
 ---
 
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy" />
-
----
-
 ## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
