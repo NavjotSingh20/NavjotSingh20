@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🧠 Frontend Development
 
-<!--
-**NavjotSingh20/NavjotSingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+
+---
+
+## 🗄️ Database & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+
+---
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,r,matlab" />
+
+---
+
+## 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy" />
+
+---
+
+## 📊 Data Science & ML Tools
+
+<img src="https://skillicons.dev/icons?i=jupyter,opencv" />
+
+---
+
+## 🛠️ Developer Tools & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
